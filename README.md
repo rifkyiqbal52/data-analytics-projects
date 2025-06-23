@@ -37,6 +37,9 @@ By the end of this project, I was able to simulate a real-world ETL (Extract, Tr
 3. Using PostgreSQL for data storage
 4. Understanding the workflow of a data engineering project
 
+📁 Check the [notebooks folder](notebooks/) for the Jupyter Notebook.
+
+📂 View [data folder](data/) for raw and cleaned datasets.
+
 ## 📌 Note
 This project is for educational purposes only. It complies with Lazada’s terms of use and was not used for commercial purposes.
-
